@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192743855796",
+    "project_id": "tapappremota-e38e7",
+    "storage_bucket": "tapappremota-e38e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192743855796:android:3ee71ef41648e994f869e1",
+        "android_client_info": {
+          "package_name": "com.example.tap_u5_ejercicio4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192743855796-7adr3jsgku6m61c4f1mon2bet4d4g6rt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPLk2I2uHM-HozYP13kezdbue6yBnN918"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192743855796-7adr3jsgku6m61c4f1mon2bet4d4g6rt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
